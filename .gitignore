@@ -1,0 +1,9 @@
+# Publish only presentation documents and rendered screenshots.
+*
+!.gitignore
+!README.md
+!GALLERY.md
+!ATTRIBUTION.md
+!RIGHTS.md
+!screenshots/
+!screenshots/*.webp
